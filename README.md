@@ -1,1 +1,1 @@
-# tatti-dice
+# game-dice
